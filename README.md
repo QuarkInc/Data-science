@@ -1,16 +1,17 @@
 # Data-science
-Data science learning 
+Data science learning
+<h2>  Churn Prediction </h2>
 This is a demo project for learning. 
 You can find basic of Data Analysis Using R Programming.
 
 <h2>Take away</h2> :
 
-Missing Value Analysis.
-Outlier Analysis using Box Plot.
-Correlation graph.
-Chi-Square testing.
-Normalization of the data.
-Some predictive model.
-ROC Analysis.
+<br> Missing Value Analysis. </br>
+<br> Outlier Analysis using Box Plot. </br>
+<br> Correlation graph. </br>
+<br >Chi-Square testing. </br>
+<br> Normalization of the data. </br>
+<br> Some predictive model. </br>
+<br> ROC Analysis. </br>
 
 
